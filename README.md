@@ -17,7 +17,7 @@ Musicca-drum-kit/
 │ ├── bootstrap.min.css
 │ └── styles.css
 ├── js/
-│ └── script.js
+│ └── index.js
 ├── index.html
 └── README.md
 ```
